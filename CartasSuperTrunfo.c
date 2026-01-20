@@ -59,6 +59,8 @@ int main() {
 
   printf("Pontos_turisticos: ");
   scanf("%d", &Pontos_turisticos2);
+
+  printf("Carta03: \n");
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
   // Área para entrada de dados
